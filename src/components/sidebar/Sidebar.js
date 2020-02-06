@@ -27,12 +27,13 @@ export default class Sidebar extends Component {
                                 <li><a href="https://twitter.com/gagne_taylor" target="_blank" rel="noopener noreferrer"><i className="icon-twitter2" /></a></li>
                                 <li><a href="https://www.linkedin.com/in/taylor-gagne-138440138/" target="_blank" rel="noopener noreferrer"><i className="icon-linkedin2" /></a></li>
                                 <li><a href="https://github.com/taylor009" target="_blank" rel="noopener noreferrer"><i className="icon-github"/></a></li>
-                                <li><a href="https://medium.com/@taylor_14778" target="_blank" rel="noopener noreferrer"><i className="icon-blogger2"/></a></li>
+                                <li><a href="https://medium.com/@taylor_14778" target="_blank" rel="noopener noreferrer"><i className="fab fa-medium fa-3x"/></a></li>
+                                <li><a href="https://www.upwork.com/fl/taylorgagne" target="_blank" rel="noopener noreferrer"><img src="images/upwork-ar21.svg" width="60" height="50" alt="upwork"/></a></li>
                             </ul>
                         </nav>
                         <div className="colorlib-footer">
                             <p><small>
-                                Made with <i className="icon-heart" aria-hidden="true" /><br></br>
+                                Made with <i className="icon-heart" aria-hidden="true" /><br/>
                             </small></p>
                         </div>
                     </aside>

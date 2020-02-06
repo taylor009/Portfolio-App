@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import './App.css';
 import Sidebar from "./components/sidebar/Sidebar";
-import Introduction from "./components/sidebar/Introduction";
+import Introduction from "./components/introduction/Introduction";
 
 class App extends Component {
   render() {

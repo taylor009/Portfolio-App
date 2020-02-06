@@ -319,6 +319,9 @@
 .icon-social-facebook:before {
   content: "\e991";
 }
+.icon-upwork:before {
+  content: "\e900";
+}
 .icon-social-dribbble:before {
   content: "\e992";
 }
