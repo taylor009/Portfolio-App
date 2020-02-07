@@ -13,6 +13,7 @@ class App extends Component {
             <div id="colorlib-main">
               <Introduction/>
               <About/>
+            {/*  todo*/}
             {/*  <Timeline></Timeline>*/}
             </div>
           </div>
