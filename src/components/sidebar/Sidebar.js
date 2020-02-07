@@ -23,10 +23,10 @@ export default class Sidebar extends Component {
                         </nav>
                         <nav id="colorlib-main-menu">
                             <ul>
-                                <li><a href="https://www.facebook.com/taylorgagne9" target="_blank" rel="noopener noreferrer"><i className="icon-facebook2" /></a></li>
-                                <li><a href="https://twitter.com/gagne_taylor" target="_blank" rel="noopener noreferrer"><i className="icon-twitter2" /></a></li>
-                                <li><a href="https://www.linkedin.com/in/taylor-gagne-138440138/" target="_blank" rel="noopener noreferrer"><i className="icon-linkedin2" /></a></li>
-                                <li><a href="https://github.com/taylor009" target="_blank" rel="noopener noreferrer"><i className="icon-github"/></a></li>
+                                <li><a href="https://www.facebook.com/taylorgagne9" target="_blank" rel="noopener noreferrer"><i className="fab fa-facebook-f fa-3x" /></a></li>
+                                <li><a href="https://twitter.com/gagne_taylor" target="_blank" rel="noopener noreferrer"><i className="fab fa-twitter fa-3x" /></a></li>
+                                <li><a href="https://www.linkedin.com/in/taylor-gagne-138440138/" target="_blank" rel="noopener noreferrer"><i className="fab fa-linkedin fa-3x" /></a></li>
+                                <li><a href="https://github.com/taylor009" target="_blank" rel="noopener noreferrer"><i className="fab fa-github fa-3x"/></a></li>
                                 <li><a href="https://medium.com/@taylor_14778" target="_blank" rel="noopener noreferrer"><i className="fab fa-medium fa-3x"/></a></li>
                                 <li><a href="https://www.upwork.com/fl/taylorgagne" target="_blank" rel="noopener noreferrer"><img src="images/upwork-ar21.svg" width="60" height="50" alt="upwork"/></a></li>
                             </ul>
