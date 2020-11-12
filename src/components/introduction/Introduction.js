@@ -16,7 +16,7 @@ export default class Introduction extends Component {
                                                 <div className="desc">
                                                     <h1 style={{color: "white"}}>Hi! <br />I'm Taylor</h1>
                                                     <p>
-                                                        <a style={{color: "white", borderColor: "white"}} className="btn btn-primary btn-learn" href="https://docs.google.com/document/d/1QhO0bA77tjfxYPzvypgeFjOFmaZ9JFvX6tSrNhnbT2I/edit?usp=sharing" target="_blank" rel="noopener noreferrer">View CV<i className="icon-download4" /></a></p>
+                                                        <a style={{color: "white", borderColor: "white"}} className="btn btn-primary btn-learn" href="https://docs.google.com/document/d/1ssQATpCrnrMyouxB8q9F2gNlC2OmTjD6HXrjY6Nsp00/edit?usp=sharing" target="_blank" rel="noopener noreferrer">View CV<i className="icon-download4" /></a></p>
                                                 </div>
                                             </div>
                                         </div>
